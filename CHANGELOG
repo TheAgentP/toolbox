@@ -2,3 +2,5 @@
 Basic files added.
 # Fix 11/04/2023 - G
 Grammar in readme
+# Enabled Debugger 14/02/2025
+Enabled ptrace-based debugger like C+, Go, Rust by uncommeting lines 20-23 in toolbox/.devcontainer/docker-compose.yml
